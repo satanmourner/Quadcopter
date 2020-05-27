@@ -1,0 +1,4 @@
+used moudules :
+-> GPS-neo6mv2 (for finding coordinate) 
+-> compass-gy271 (for finding direction)
+-> Simcard-sim800l (for communicating with quad)
