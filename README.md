@@ -6,3 +6,8 @@ in automatic -> works wih sms
 3) then user must send longitude and latitude to quadcopter 
 4) via AI algorithm , fly to those coordinate (not yet completed)
 
+used moudules :
+-> GPS-neo6mv2 (for finding coordinate) 
+-> compass-gy271 (for finding direction)
+-> Simcard-sim800l (for communicating with quad)
+
